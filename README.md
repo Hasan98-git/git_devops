@@ -1,2 +1,2 @@
 # git_devops
-devops course git raining
+devops course git training
